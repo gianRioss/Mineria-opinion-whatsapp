@@ -22,3 +22,35 @@ El objetivo principal es detectar patrones emocionales y de participación dentr
 
 ## 📂 Contenido del repositorio
 
+
+---
+
+## 📊 Funcionalidades
+
+- Extracción de emociones básicas (`alegría`, `miedo`, `ira`, etc.)
+- Puntajes sentimentales (`afinn`, `bing`, `syuzhet`, `nrc`)
+- Clasificación por tipo de sentimiento (`Positivo`, `Negativo`, `Neutro`)
+- Visualización por autor, día de la semana, hora, y emoción predominante
+- Segmentación dinámica e interactiva en Power BI
+
+---
+
+## 🖼️ Vista previa
+
+![Dashboard](dashboard-preview.png)
+
+---
+
+## 📌 Notas
+
+- Proyecto realizado sin herramientas de pago.
+- Toda la lógica de procesamiento se encuentra disponible en el script `.R`.
+- El archivo `.pbix` está listo para abrirse con Power BI Desktop.
+
+---
+
+## 👤 Autor
+
+Mauricio Ríos  
+📍 Buenos Aires, Argentina  
+🔗 [GitHub: gianRioss](https://github.com/gianRioss)
